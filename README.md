@@ -12,3 +12,6 @@ Launches test runner in the interactive watch mode.
 
 ## Hosted on Netlify
 [![Netlify Status](https://api.netlify.com/api/v1/badges/22efcf3f-3600-4da4-9b36-fd5fb6e08f3c/deploy-status)](https://app.netlify.com/sites/magic-matching/deploys)
+
+## Icon Source
+PNGs provided free from [opengameart.org](https://opengameart.org/content/game-icons-of-fantasy-potions-pack-1)
